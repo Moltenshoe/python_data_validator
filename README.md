@@ -77,7 +77,7 @@ Make sure you're using **Python 3.10+** (for `match-case`)
 
 ---
 
-## 🧑Developer
+## Author
 
 Made by [**Moltenshoe**](https://github.com/Moltenshoe)  
 Part of a **7-day Python Module Challenge**
